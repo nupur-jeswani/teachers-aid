@@ -1,0 +1,31 @@
+Group number - D15B-06
+Group Members - 
+	Nidhi Jain - 16
+	Nupur Jeswani - 18
+	Aarushi Sharma - 54
+
+Topic Domain - Education
+Title - VESIT Exam Analysis
+
+Brief description of VESIT Exam Analysis - 
+VESIT Exam Analysis will be an application for VESIT Teachers to get detailed analysis and visualized reports showcasing how their students are performing in the examinations conducted here in VESIT. VESIT teachers can use the Web based Analytical application to get insights on the performance of the whole class as well as individual students on any exam. For Example - Internal assesments, Final exams. 
+
+Our professors in VESIT can use this application to see detailed reports like comparison of the whole classs' marks of both IAs, Semester wise grades and its distribution, Ranking of students in a particular department. Professors can drill down and search for a specific student to see their detailed report too.
+
+This project will be made with the help of streamlit to create the front end for our data science model. Filtering options will be available for our teachers to view the dashboard by using important KPIs and the right visualization for those KPIs based on those filters.
+
+-------------------
+
+Some other Features - 
+
+Distribution graph of the marks scored by students (whether it is positively or negatively skewed)
+
+Comparison between the two unit tests of that semester
+
+Line chart showing the marks obtained by the student in all the semesters compared to the average performance of the whole department.
+
+Professors will be able to predict the students who they have to monitor closely from the start of the semester by observing their performance in the past with the help of historical data. Hence we can use forecasting model for this.
+
+Conclusion - 
+Hence, all of these manual creation of charts, calculating values to compare the performance of each student, will be automated. Data visualization gives us a clear idea of what the information means by giving it visual context through graphs, and distributions. This makes the data more natural for the human mind to comprehend and therefore makes it easier to identify trends, patterns, and outliers within large data sets. VESIT Exam Analysis will help our teachers to see the trends in our performance more quickly and clearly they will be able to comprehend the information more quickly, pin point those students who are scoring below average marks and then they can pay extra attention to those students. 
+
